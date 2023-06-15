@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+#habilidades{
+    width: 90%;
+    height: 500px;
+    background-color: rgb(38, 20, 141);
+    color: white;
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+li{
+    margin: 30px;
+    list-style: none;
+}

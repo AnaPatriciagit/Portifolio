@@ -1,0 +1,20 @@
+@media screen and (max-width: 626px){
+    .containers{
+        display: flex;
+        width: 100%;
+        display: inline-block;
+        vertical-align: top;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    h3{
+        color: white;
+        text-align: center;
+        margin: 20px;
+    }
+    
+    p{
+        color: white;
+    }
+}
