@@ -11,9 +11,6 @@ div#apresentacao{
     display: flex;
     justify-content: left;
     justify-items: center;
-    flex-direction: column;
-    padding: 15%;
-
 }
 
 p{
