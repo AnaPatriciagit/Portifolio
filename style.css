@@ -9,8 +9,8 @@ body{
 
 div#apresentacao{
     display: flex;
-    justify-content: left;
-    justify-items: center;
+    justify-content: center;
+    aling-items: center;
 }
 
 p{
@@ -95,12 +95,10 @@ a:hover{
 }
 #imgport{
     display: flex;
-    align-items:end;
-    justify-content: right;
-    justify-self: right;
+    justify-content: center;
+    aling-items: right;
     word-wrap: break-word;
     margin-top:-40%;
-    margin-right: 20%;
 }
 
 img{
