@@ -9,6 +9,7 @@ body{
 }
 
 .portifolio{
+  width: 100vw;
   display: flex;
   justify-content: center;
   aling-items: center;
@@ -16,12 +17,8 @@ body{
 }
 
 #apresentacao {
-  width: 100%;
   height: 100px;
   nargin-top: 40%;
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
 }
 
 .divisaoimgs {
