@@ -5,12 +5,17 @@
 
 body{
     background-color: black;
+   widht: 100vw;
    display: flex;
    justify-content: center;
    flex-direction: column;
  
 }
 
+.portifolio{
+  display: flex;
+  justify-content: center;
+}
 
 #apresentacao {
   width: 100%;
