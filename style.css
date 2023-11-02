@@ -16,6 +16,10 @@ body{
   flex-direction: column;
 }
 
+
+#desenvolvedora{
+  color: white;
+}
 #apresentacao {
   height: 100px;
   nargin-top: 40%;
