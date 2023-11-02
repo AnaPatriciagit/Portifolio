@@ -8,9 +8,7 @@ body{
 }
 
 div#apresentacao{
-    display: flex;
-    justify-content: center;
-    aling-items: center;
+    margin-top: 30%;
 }
 
 p{
