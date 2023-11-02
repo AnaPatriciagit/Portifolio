@@ -85,19 +85,6 @@ h2{
     border: 5px solid rgb(70, 0, 97);
 }
 
-
-.divisaoimgs{
-  margin-left: 14%;
-}
-
-img.redes{
-    width: 40px;
-    height: 40px;
-    color: white;
-    margin-left: 20px;
-    margin-bottom: 10px;
-}
-
 nav{
     position: absolute;
     top: 25px;
@@ -126,13 +113,6 @@ nav a{
 a:hover{
     color: rgb(72, 14, 180);
     transition: width;
-}
-#imgport{
-    widht: 100vw;
-    display: flex;
-    justify-content: center;
-    aling-items: center;
-    margin-top:-40%;
 }
 
 img{
