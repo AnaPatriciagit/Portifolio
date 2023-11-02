@@ -5,7 +5,6 @@
 
 body{
     background-color: black;
-   widht: 100vw;
  
 }
 
@@ -13,6 +12,7 @@ body{
   display: flex;
   justify-content: center;
   aling-items: center;
+  flex-direction: column;
 }
 
 #apresentacao {
